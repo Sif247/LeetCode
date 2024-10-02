@@ -3,9 +3,8 @@
 Every day, for one year, I will update at least one problem.
 
 this is the day : 6
-- Array
+- Array (Brute force Style)
    - [n. 1](https://github.com/Sif247/LeetCode/tree/main/1%20Two%20Sum)   (Python)
-  ### 1. Two Num
    - [n. 26](https://github.com/Sif247/LeetCode/tree/main/26%20Remove%20Duplicates%20from%20Sorted%20Array)   (Python)
    - [n. 66](https://github.com/Sif247/LeetCode/tree/main/66%20Plus%20One)   (C)
    - [n. 283](https://github.com/Sif247/LeetCode/tree/main/283%20Move%20Zeroes)   (Python)
