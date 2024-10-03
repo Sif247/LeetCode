@@ -1,5 +1,5 @@
 # LeetCode
-### problems of data structures and algorithms, preparation jobs interview
+### Problems of data structures and algorithms, preparation jobs interview
 Every day, for one year, I will update at least one problem.
 
 this is the day : 7
