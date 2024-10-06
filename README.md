@@ -1,7 +1,7 @@
 # LeetCode
 ### Problems of data structures and algorithms, preparation jobs interview
 ##### Every day, for one year, I will update at least one problem: 
-##### First day 27/09/2024
+
 
 This is the day : 10
 
@@ -31,4 +31,6 @@ This is the day : 10
 - C#
   
 
+
+##### (First day 27/09/2024)
 
