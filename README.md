@@ -1,9 +1,9 @@
 # LeetCode
 ### Problems of data structures and algorithms, preparation jobs interview
 ##### Every day, for one year, I will update at least one problem: 
-First day 27/09/2024
+##### First day 27/09/2024
 
-this is the day : 10
+This is the day : 10
 
 - Array (Brute force Style)
    - n. 1 [Two Sum](https://github.com/Sif247/LeetCode/tree/main/1%20Two%20Sum)   (Python)
