@@ -3,7 +3,7 @@
 ##### Every day, for one year, I will update at least one problem: 
 
 
-This is the day : 10
+This is the day : 11
 
 - Array (Brute force Style)
    - n. 1 [Two Sum](https://github.com/Sif247/LeetCode/tree/main/1%20Two%20Sum)   (Python)
