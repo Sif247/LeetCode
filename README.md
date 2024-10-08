@@ -13,6 +13,7 @@ This is the day : 12
    - n. 217[Contains Duplicate](https://github.com/Sif247/LeetCode/tree/main/217%20Contains%20Duplicate)   (Python)
    - n. 283 [Move Zeroes](https://github.com/Sif247/LeetCode/tree/main/283%20Move%20Zeroes)   (Python)
    - n. 485 [Max Consecutive Ones](https://github.com/Sif247/LeetCode/tree/main/485%20Max%20Consecutive%20Ones)   (Java)
+   - n. 941 [Valid Mountain Array](https://github.com/Sif247/LeetCode/tree/main/941%20Valid%20Mountain%20Array)   (Python)
    - n. 1346 [Check If N and Its Double Exist](https://github.com/Sif247/LeetCode/tree/main/1346%20Check%20If%20N%20and%20Its%20Double%20Exist)   (Python)
    - n. 1550 [Three Consecutive Odds](https://github.com/Sif247/LeetCode/tree/main/1550%20Three%20Consecutive%20Odds)   (Python)
    - n. 1929 [Concatenation of Array](https://github.com/Sif247/LeetCode/tree/main/1929.Concatenation%20of%20Array)   (Java)
