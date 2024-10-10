@@ -3,7 +3,7 @@
 ##### Every day, for one year, I will update at least one problem: 
 
 
-This is the day : 13
+This is the day : 14
 #
 
 - Array (Brute force Style)
@@ -24,6 +24,7 @@ This is the day : 13
  
 - Hashmaps & Sets
   - n. 771 [Jewels and Stones](https://github.com/Sif247/LeetCode/tree/main/771%20Jewels%20and%20Stones)   (Python)
+  - n. 383 [Ransom Note](https://github.com/Sif247/LeetCode/tree/main/383%20Ransom%20Note)   (Python)
      
   
    
