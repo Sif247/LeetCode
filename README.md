@@ -3,7 +3,8 @@
 ##### Every day, for one year, I will update at least one problem: 
 
 
-This is the day : 12
+This is the day : 13
+#
 
 - Array (Brute force Style)
    - n. 1 [Two Sum](https://github.com/Sif247/LeetCode/tree/main/1%20Two%20Sum)   (Python)
@@ -18,20 +19,18 @@ This is the day : 12
    - n. 1550 [Three Consecutive Odds](https://github.com/Sif247/LeetCode/tree/main/1550%20Three%20Consecutive%20Odds)   (Python)
    - n. 1929 [Concatenation of Array](https://github.com/Sif247/LeetCode/tree/main/1929.Concatenation%20of%20Array)   (Java)
    - n. 2239 [Find Closest Number to Zero](https://github.com/Sif247/LeetCode/tree/main/2239%20Find%20Closest%20Number%20to%20Zero)   (Python)
+
+ #
+ 
+- Hashmaps & Sets
+  - n. 771 [Jewels and Stones](https://github.com/Sif247/LeetCode/tree/main/771%20Jewels%20and%20Stones)   (Python)
      
   
    
 
 
 
-## the programming languages that I will use are:
 
-- C
-- Python
-- Java
-- Dart
-- C#
-  
 
 # 
 ##### (First day 27/09/2024)
